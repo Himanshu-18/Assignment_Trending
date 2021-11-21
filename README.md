@@ -1,19 +1,11 @@
-<h1 align="center"> Kotlin Trending Repositories</h1>
+<h1 align="center"> Trending Repositories</h1>
 
 <p align="center">
   <a href="https://android-arsenal.com/api?level=23"><img alt="API" src="https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat"/></a>
 </p>
 
-<p align="center">  
-Android App that lists trending Kotlin Github repositories
-</p>
 
-<p align="center">
-<img src="/screenshots/Trending_1.png" width="200"/> <img src="/screenshots/Trending_2.png" width="200"/> <img src="/screenshots/Trending_3.png" width="200"/> <img src="/screenshots/Trending_5.gif" width="200"/>
-</p>
-
-## Download
-Go to the [Releases](https://github.com/yalematta/kotlin-trending-repos/releases) to download the lastest APK.
+For Clone https://github.com/Himanshu-18/Assignment_Trending.git
 
 ## API
 Since there is no official API for Trending Repositories (it is one of the internal GitHub API’s),
